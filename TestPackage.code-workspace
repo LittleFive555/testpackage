@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "TestPackage.sln",
+		"dotnet.preferCSharpExtension": true
+	}
+}
