@@ -1,0 +1,3 @@
+[submodule "Assets/TestPackage"]
+	path = Assets/TestPackage
+	url = https://github.com/LittleFive555/testpackage2.git
